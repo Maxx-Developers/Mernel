@@ -61,7 +61,11 @@ If your problem is not in the list above, try creating an issue and our staff wi
 ## Problem Feedback
 
 Mernel is a young kernel and is still under development. If you encounter a problem with Mernel, please do not assume that it is a bug in Mernel; first check if there is something wrong with your operation and see if there is a solution in the documentation and troubleshooting section.
+<<<<<<< HEAD
 If you are sure it is a Mernel bug, please submit an issue in the Issues section of this repository, describing the problem in as much detail as possible and including information such as error messages, steps, and environment information such as error messages, steps, and environment information. This will help us to locate and fix the bug as soon as possible.
+=======
+If you are sure it is a Mernel bug, please submit an issue in the Issues section of this repository, describing the problem in as much detail as possible and including information such as error messages, steps, and environment information. This will help us to locate and fix the bug as soon as possible.
+>>>>>>> 7abb49a0bf75d120cfe95cc59aa14ceea77947d6
 
 
 
@@ -101,4 +105,8 @@ Yufan Zhang：Software testing, project planning
 
 cynosure279: part of kernel code
 
+<<<<<<< HEAD
 Acpear: part of kernel code
+=======
+Acpear: part of kernel code
+>>>>>>> 7abb49a0bf75d120cfe95cc59aa14ceea77947d6
