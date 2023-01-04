@@ -103,8 +103,5 @@ Yufan Zhang：Software testing, project planning
 
 cynosure279: part of kernel code
 
-<<<<<<< HEAD
 Acpear: part of kernel code
-=======
-Acpear: part of kernel code
->>>>>>> 7abb49a0bf75d120cfe95cc59aa14ceea77947d6
+
