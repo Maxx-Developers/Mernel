@@ -18,7 +18,7 @@ _✨ 安全与快速的类Unix内核 ✨_
   ·
   <a href="https://mernel.ctri.cc/dev-docs">开发文档</a>
   ·
-  <a href="">贡献</a>
+  <a href="https://github.com/Maxx-Developers/Mernel/blob/master/README.md">English</a>
 </p>
 
 ## 介绍

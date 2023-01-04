@@ -17,6 +17,8 @@ _✨ A secure and efficent unix-like kernel ✨_
   <a href="https://mernel.ctri.cc/docs/start/installation">Installation</a>
   ·
   <a href="https://mernel.ctri.cc/dev-docs">Development Documentation</a>
+  .
+  <a href="https://github.com/Maxx-Developers/Mernel/blob/master/README.zh.md">中文</a>
 </p>
 
 ## Introduction
