@@ -19,6 +19,8 @@ _✨ A secure and efficent unix-like kernel ✨_
   <a href="https://mernel.ctri.cc/dev-docs">Development Documentation</a>
 </p>
 
+中文文档：<a href="README.zh.md">跳转</a>
+
 ## Introduction
 
 Mernel is a Unix-like system kernel designed to provide an easy-to-use platform for learning kernel development and operating system principles.Mernel is a macro kernel, meaning that the kernel and the application run in the same memory space. This makes the Mernel lighter, faster, and easier to develop and debug.
