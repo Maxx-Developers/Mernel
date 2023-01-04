@@ -29,12 +29,12 @@ Mernel 使用 Rust 和 C 编写，分别用于内核的核心功能和驱动程�
 
 
 
-## Our Community
+## 我们的社区
 
-Offical Website: https://mernel.ctri.cc
+官方网站: https://mernel.ctri.cc
 
 
-Email: [QiYiming](mailto:qiyiming@codereservice.top)
+电子邮件: [QiYiming](mailto:qiyiming@codereservice.top)
 
 
 
