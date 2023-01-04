@@ -102,4 +102,3 @@ Yufan Zhang：Software testing, project planning
 cynosure279: part of kernel code
 
 Acpear: part of kernel code
-If you want to contribute to the Mernel project, please send an email to qiyiming(at)codereservice.top.
