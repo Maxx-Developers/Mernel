@@ -12,11 +12,11 @@ _✨ 安全与快速的类Unix内核 ✨_
 
 
 <p align="center">
-  <a href="mernel.ctri.cc/docs">文档</a>
+  <a href="mernel.codereservice.top/docs">文档</a>
   ·
-  <a href="https:/mernel.ctri.cc/docs/start/installation">安装</a>
+  <a href="https:/mernel.codereservice.top/docs/start/installation">安装</a>
   ·
-  <a href="https://mernel.ctri.cc/dev-docs">开发文档</a>
+  <a href="https://mernel.codereservice.top/dev-docs">开发文档</a>
   ·
   <a href="https://github.com/Maxx-Developers/Mernel/blob/master/README.md">English</a>
 </p>
@@ -31,7 +31,7 @@ Mernel 使用 Rust 和 C 编写，分别用于内核的核心功能和驱动程�
 
 ## 我们的社区
 
-官方网站: https://mernel.ctri.cc
+官方网站: https://mernel.codereservice.top
 
 
 电子邮件: [QiYiming](mailto:qiyiming@codereservice.top)

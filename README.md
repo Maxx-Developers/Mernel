@@ -12,11 +12,11 @@ _✨ A secure and efficent unix-like kernel ✨_
 
 
 <p align="center">
-  <a href="https://mernel.ctri.cc/docs">Docs</a>
+  <a href="https://mernel.codereservice.top/docs">Docs</a>
   ·
-  <a href="https://mernel.ctri.cc/docs/start/installation">Installation</a>
+  <a href="https://mernel.codereservice.top/docs/start/installation">Installation</a>
   ·
-  <a href="https://mernel.ctri.cc/dev-docs">Development Documentation</a>
+  <a href="https://mernel.codereservice.top/dev-docs">Development Documentation</a>
   ·
   <a href="https://github.com/Maxx-Developers/Mernel/blob/master/README.zh.md">中文</a>
 </p>
@@ -33,7 +33,7 @@ The Mernel is written in Rust and C for core kernel functionality and driver dev
 
 ## Our Community
 
-Offical Website: https://mernel.ctri.cc
+Offical Website: https://mernel.codereservice.top
 
 
 Email: [QiyiMing](mailto:qiyiming@codereservice.top)
