@@ -80,4 +80,6 @@ feat(Controller):用户查询接口开发
 
 `master` 分支为 Mernel 的开发分支，在任何情况下都请不要直接修改 `master` 分支，而是创建一个目标分支为 ```Mernel:feature``` 的 Pull Request 来提交修改。等到各种特性稳定下来，我们再 merge 到 master分支
 
-如果你不是 Mernel Developer 的成员，可在 fork 本仓库后，向本仓库的 feature 分支发起 Pull Request，注意遵循先前提到的 commit message 规范创建 commit。我们将在 code review 通过后通过 squash merge 方式将您的贡献合并到主分支。
+如果你是 Mernel Developers 的成员的话，可以选择 fork 到本地再提交 Pull Request的方式，或者直接提交到 feature 分支
+
+如果你不是 Mernel Developers 的成员，可在 fork 本仓库后，向本仓库的 feature 分支发起 Pull Request，注意遵循先前提到的 commit message 规范创建 commit。我们将在 code review 通过后通过 squash merge 方式将您的贡献合并到主分支。

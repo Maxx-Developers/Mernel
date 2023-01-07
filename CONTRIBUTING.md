@@ -72,4 +72,6 @@ Scope is used to illustrate the scope of commit influence, such as data layer, c
 
 The `master` branch is the development branch of Mernel. In any case, please do not modify the `master` branch directly, but create a Pull Request with the target branch of `Mernel:feature` to submit the modification. When the various features are stable, we will merge to the master branch
 
+If you are a member of Mernel Developers, you can choose to fork to the local and then submit the Pull Request, or directly submit to the feature branch
+
 If you are not a member of Mernel Developers, you can initiate a Pull Request to the `feature` branch of this repository after forking this repository, and follow the commit message specification mentioned earlier to create a commit. We will merge your contribution into the main branch through squash merge after the code review is passed.
