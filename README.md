@@ -97,15 +97,15 @@ Any violation of the license is not permitted
 ## Thanks to
 Thank you to all who have contributed to the Mernel project!
 
-Hanwen Ying: some kernel code, a few software drivers, documentation fixes
+Hanwen Ying: Responsible for developing part of the kernel code, a few software drivers, documentation fixes
 
-Yiming Qi: part of kernel code, documentation fixes, administrator
+Yiming Qi: Responsible for developing part of kernel code, documentation fixes, administrator
 
-Yifeng Li: part of kernel code, part of software driver, documentation fixes, architecture design
+Yifeng Li: Responsible for developing part of kernel code, part of software driver, documentation fixes, architecture design
 
 Yufan Zhang：Software testing, project planning
 
-cynosure279: part of kernel code
+cynosure279: Responsible for developing part of the kernel code
 
-Acpear: part of kernel code
+Acpear: Responsible for developing part of the kernel code
 
