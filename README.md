@@ -80,7 +80,7 @@ Please refer to the [Contributing Guidelines](./CONTRIBUTING.md)
 
 Since this project is not for profit, we need your donation
 
-Please visit: https://afdian.net/a/qiyiming
+Please visit: https://afdian.net/a/mdevs
 
 Donate to us!
 
